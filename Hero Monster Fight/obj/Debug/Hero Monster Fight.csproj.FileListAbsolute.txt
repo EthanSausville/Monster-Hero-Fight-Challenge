@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\bin\Hero Monster Fight.dll.config
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\bin\Hero Monster Fight.dll
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\bin\Hero Monster Fight.pdb
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\obj\Debug\Hero Monster Fight.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\obj\Debug\Hero Monster Fight.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\obj\Debug\Hero Monster Fight.dll
+C:\Users\Ethan\Documents\My Code\Hero Monster Fight\Hero Monster Fight\obj\Debug\Hero Monster Fight.pdb
